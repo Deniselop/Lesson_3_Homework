@@ -8,7 +8,7 @@ public class Group_1_Task_1 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
-        System.out.println("Введите номер месяца: ");
+        System.out.println("Введите номер месяца: \n");
         int num = in.nextInt();
 
 
