@@ -3,7 +3,7 @@ package Homework;
 import java.sql.SQLOutput;
 import java.util.Scanner;
 
-public class Group_1 {
+public class Group_1_Task_1 {
 
     public static void main(String[] args) {
 
@@ -12,7 +12,7 @@ public class Group_1 {
         int num = in.nextInt();
 
 
-        switch(num){
+        switch (num) {
             case 1:
                 System.out.println("Январь");
                 break;
@@ -55,32 +55,9 @@ public class Group_1 {
         }
 
 
-
-
-
-
-
-
-
-
-
-
-
+    }
     }
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-}
