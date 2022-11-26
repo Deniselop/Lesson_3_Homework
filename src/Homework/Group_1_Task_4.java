@@ -8,7 +8,7 @@ public class Group_1_Task_4 {
 
     Scanner in = new Scanner(System.in);
 
-    System.out.println("Введите температуру на улице: ");
+    System.out.println("Введите температуру на улице: \n");
     String TEMPA  = "";
     int t = in.nextInt();
 

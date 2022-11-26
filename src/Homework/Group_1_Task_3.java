@@ -8,6 +8,7 @@ public class Group_1_Task_3 {
 
         Scanner in = new Scanner(System.in);
 
+        System.out.println("Введите ваше число: \n");
         int a = in.nextInt();
 
         if (a % 2 == 0){
