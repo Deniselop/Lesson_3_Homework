@@ -14,7 +14,7 @@ public class Group_1_Task_4 {
 
     if (t >= -5) TEMPA = "Тепло";
     else
-    if (t <= -5) TEMPA = "Нормально";
+    if (t <= -5 && t >= -20) TEMPA = "Нормально";
     else
     if (t <= -20) TEMPA = "Холодно";
 
