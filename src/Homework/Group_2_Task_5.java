@@ -11,7 +11,7 @@ public class Group_2_Task_5 {
         int sum = 5;
 
 
-        for(i = 0; i<10; i++) {
+        for (i = 0; i < 10; i++) {
             sum = sum - 5;
             System.out.println(sum);
         }

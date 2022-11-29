@@ -11,7 +11,7 @@ public class Group_2_Task_3 {
 
         int n = in.nextInt();
         int sum = 0;
-        for (int i = 1; i <= n; i++){
+        for (int i = 1; i <= n; i++) {
             sum = sum + i;
         }
 

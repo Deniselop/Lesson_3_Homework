@@ -10,16 +10,10 @@ public class Group_2_Task_4 {
         int i = 7;
         int sum = 0;
 
-        while (sum <= 91){
+        while (sum <= 91) {
             sum = sum + i;
             System.out.println(sum);
         }
-
-
-
-
-
-
 
 
     }
